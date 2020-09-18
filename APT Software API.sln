@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APT Software API", "APT Software API.csproj", "{09FADCC5-F574-4941-8244-0BCFFD96407D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09FADCC5-F574-4941-8244-0BCFFD96407D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09FADCC5-F574-4941-8244-0BCFFD96407D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09FADCC5-F574-4941-8244-0BCFFD96407D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09FADCC5-F574-4941-8244-0BCFFD96407D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {731D200E-816E-47DD-BA8B-F1CA0978E811}
+	EndGlobalSection
+EndGlobal
